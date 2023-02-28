@@ -1,2 +1,3 @@
 ### MyInfo
-Name: Thanakrit thanha
+- Name: Thanakrit thanha
+- Skills: C++ & C, Python
