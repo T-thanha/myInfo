@@ -1,5 +1,5 @@
 ## 🚀 About Me
-# Hello there
+# Hey there, I'm Thanakrit Thanha! 👋
 ```python
 class myInfo():
     def __init__(self):
@@ -16,3 +16,5 @@ class myInfo():
         def get_info(self):
             return self.name, self.age, self.location, self.languages, self.hobbies, self.interests, self.socials
 ```
+## 📈 My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-tanha&layout=compact&theme=dark)](
